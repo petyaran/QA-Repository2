@@ -1,2 +1,2 @@
 # QA-Repository2
-Ready for cloning
+Ready for clonin
